@@ -1,4 +1,5 @@
-Test Model is created using VGG19 (Showing poor traing performance). VGG 19 is a convolutional neural network that is 19 layers deep. 
+Test Model is created using VGG19 (Showing poor traing performance). <br>
+VGG 19 is a convolutional neural network that is 19 layers deep. 
 -----
 Actual Model is higly accurate (Under Publication) and can be discussed in personal (Email: fshakeel453@gmail.com)
 The complete work will be added here after the completion of the Publication work:
